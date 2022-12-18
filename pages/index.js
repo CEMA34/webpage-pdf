@@ -45,7 +45,7 @@ export default function Home() {
       <div className='container'>
 
         <h1>Web Page Converter</h1>
-        <p>Convert your WebPage to JPEG format</p>
+        <p>Convert your WebPage to PDF format</p>
 
         <div className='input-div'>
          
